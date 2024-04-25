@@ -1,0 +1,1 @@
+const fact = "C# is better than JavaScript in every way.";
