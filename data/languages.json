@@ -2,21 +2,21 @@
   {
     "name": "csharp",
     "displayName": "C#",
-    "logo": "coming soon"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/800px-C_Sharp_Logo_2023.svg.png"
   },
   {
     "name": "cpp",
     "displayName": "C++",
-    "logo": "coming soon"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"
   },
   {
     "name": "typescript",
     "displayName": "TypeScript",
-    "logo": "coming soon"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/800px-Typescript.svg.png"
   },
   {
     "name": "brainfuck",
     "displayName": "brainfuck",
-    "logo": "coming soon"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Brainfuck-mw-logo.png"
   }
 ]
