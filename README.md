@@ -21,15 +21,25 @@ npm start
 
 ## 🦄 Voting
 
-You can add your vote to the `votes.json` file. Just make sure to follow the format:
+You can add your vote to the [`votes.json`](./data/votes.json) file using the format:
 
 ```json
 { "language": "csharp", "reason": "C# is better than JavaScript." }
 ```
 
-### 🐲 New Languages
+### 🐲 Languages
 
-If the language you want to cast a vote for hasn't been voted on yet, please add an entry in the [contributing documentation](./CONTRIBUTING.md) so that others know how to vote for that language and have the votes counted.
+Languages are defined in the [`languages.json`](./data/languages.json) file. If you want to add a new language, you can do so by adding an entry in the following format:
+
+```json
+{
+  "name": "csharp",
+  "displayName": "C#",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"
+}
+```
+
+<sub>**Note:** The `logo` field is optional.</sub>
 
 ## 👾 The Battlegrounds
 

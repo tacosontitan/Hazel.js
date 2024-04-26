@@ -1,0 +1,22 @@
+[
+  {
+    "name": "csharp",
+    "displayName": "C#",
+    "logo": "coming soon"
+  },
+  {
+    "name": "cpp",
+    "displayName": "C++",
+    "logo": "coming soon"
+  },
+  {
+    "name": "typescript",
+    "displayName": "TypeScript",
+    "logo": "coming soon"
+  },
+  {
+    "name": "brainfuck",
+    "displayName": "brainfuck",
+    "logo": "coming soon"
+  }
+]

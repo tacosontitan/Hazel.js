@@ -3,22 +3,9 @@
 You can contribute anything you like, as long as it's legal. This includes:
 
 - Voting on a language.
-- Adding a new language to the list below.
+- Adding a new language.
 - Adding samples of code in a language.
+- Improving the UI.
+- Fixing bugs.
 
 This is war, so aim to win.
-
-## 🐲 Known Languages
-
-The following languages have already been voted on:
-
-```json
-{
-  "languages": [
-    "csharp",
-    "cpp",
-    "typescript",
-    "brainfuck"
-  ]
-}
-```

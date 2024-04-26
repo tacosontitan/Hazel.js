@@ -15,7 +15,7 @@ export class VoteService {
      * @returns {Vote[]} The votes about which language is best.
      */
     getVotes() {
-        let rawData = fs.readFileSync('resources/votes.json');
+        let rawData = fs.readFileSync('data/votes.json');
         let factsJson = JSON.parse(rawData);
         return factsJson.map(this.mapVote);
     }
