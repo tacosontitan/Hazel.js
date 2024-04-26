@@ -35,7 +35,7 @@ Languages are defined in the [`languages.json`](./data/languages.json) file. If 
 {
   "name": "csharp",
   "displayName": "C#",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png"
 }
 ```
 
