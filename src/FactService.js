@@ -1,3 +1,7 @@
+// Copyright (c) 2024 tacosontitan
+// This file is part of the Hazel.js project, which is distributed under the MIT license.
+// See LICENSE for more information.
+
 import {Fact} from "./Fact.js";
 import fs from 'fs';
 
