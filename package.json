@@ -1,0 +1,21 @@
+{
+  "name": "hazel.js",
+  "version": "1.0.0",
+  "description": "C# is better than JavaScript, enough said.",
+  "main": "src/Hazel.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/Hazel.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacosontitan/Hazel.js.git"
+  },
+  "author": "tacosontitan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tacosontitan/Hazel.js/issues"
+  },
+  "homepage": "https://github.com/tacosontitan/Hazel.js#readme"
+}
