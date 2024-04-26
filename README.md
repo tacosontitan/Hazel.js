@@ -24,7 +24,7 @@ npm start
 You can add your vote to the `votes.json` file. Just make sure to follow the format:
 
 ```json
-{ "language": "C#", "reason": "C# is better than JavaScript." }
+{ "language": "csharp", "reason": "C# is better than JavaScript." }
 ```
 
 ### 🐲 New Languages
