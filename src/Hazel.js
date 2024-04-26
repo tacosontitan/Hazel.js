@@ -2,19 +2,19 @@
 // This file is part of the Hazel.js project, which is distributed under the MIT license.
 // See LICENSE for more information.
 
-import { FactService } from "./FactService.js";
+import { VoteService } from "./VoteService.js";
 
-let factService = new FactService();
-let facts = factService.getFacts();
+let voteService = new VoteService();
+let votes = voteService.getVotes();
 
-for (let fact of facts)
-    printFact(fact);
+for (let vote of votes)
+    printFact(vote);
 
 /**
- * Prints the given fact to the console.
- * @param fact The fact to print.
+ * Prints the given vote to the console.
+ * @param fact The vote to print.
  */
-function printFact(fact) {
-    let statement = fact.language + ": " + fact.value;
+function printFact(vote) {
+    let statement = vote.language + ": " + vote.reason;
     console.log(statement);
 }

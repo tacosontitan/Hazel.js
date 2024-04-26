@@ -1,0 +1,6 @@
+[
+  { "language": "csharp", "reason": "It's better than JavaScript, that's for sure!" },
+  { "language": "cpp", "reason": "Unreal Engine is better than Unity." },
+  { "language": "typescript", "reason": "Notice how it starts making JavaScript look more like C#?" },
+  { "language": "brainfuck", "reason": "Code golf, of course." }
+]

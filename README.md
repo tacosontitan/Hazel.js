@@ -1,6 +1,6 @@
 # 💃 Hazel.js
 
-C# is just better than JavaScript, enough said. If you disagree, then raise a PR and prove me wrong.
+Let's decide once and for all which language is the best; open a PR and cast your vote!
 
 ![License](https://img.shields.io/github/license/tacosontitan/Glitter?logo=github&style=for-the-badge)
 
@@ -19,13 +19,17 @@ npm i
 npm start
 ```
 
-## 🦄 Spitting Facts
+## 🦄 Voting
 
-You can add your own facts to the `facts.json` file. Just make sure to follow the format:
+You can add your vote to the `votes.json` file. Just make sure to follow the format:
 
 ```json
-{ "language": "C#", "fact": "C# is better than JavaScript." }
+{ "language": "C#", "reason": "C# is better than JavaScript." }
 ```
+
+### 🐲 New Languages
+
+If the language you want to cast a vote for hasn't been voted on yet, please add an entry in the [contributing documentation](./CONTRIBUTING.md) so that others know how to vote for that language and have the votes counted.
 
 ## 👾 The Battlegrounds
 
