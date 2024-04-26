@@ -12,6 +12,21 @@ Get started by reviewing the answers to the following questions:
 - [How should I behave here?](./CODE_OF_CONDUCT.md)
 - [How can I help?](./CONTRIBUTING.md)
 
+Afterward, (assuming you've already cloned the project) you can run the following commands to get started:
+
+```bash
+npm i
+npm start
+```
+
+## 🦄 Spitting Facts
+
+You can add your own facts to the `facts.json` file. Just make sure to follow the format:
+
+```json
+{ "language": "C#", "fact": "C# is better than JavaScript." }
+```
+
 ## 👾 The Battlegrounds
 
 Keep it clean, keep it professional. Other than that, anything goes, as long as it's legal.
