@@ -18,5 +18,10 @@
     "name": "brainfuck",
     "displayName": "brainfuck",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Brainfuck-mw-logo.png"
+  },
+  {
+    "name": "zig",
+    "displayName": "Zig",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Zig_logo_2020.svg"
   }
 ]
