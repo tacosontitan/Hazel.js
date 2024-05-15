@@ -23,5 +23,10 @@
     "name": "zig",
     "displayName": "Zig",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Zig_logo_2020.svg"
+  },
+  {
+    "name": "nim",
+    "displayName": "Nim",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg"
   }
 ]
