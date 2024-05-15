@@ -3,5 +3,6 @@
   { "language": "cpp", "reason": "Unreal Engine is better than Unity." },
   { "language": "typescript", "reason": "Notice how it starts making JavaScript look more like C#?" },
   { "language": "brainfuck", "reason": "Code golf, of course." },
-  { "language": "zig", "reason": "It's Rust, minus the bad stuff (so everything)." }
+  { "language": "zig", "reason": "It's Rust, minus the bad stuff (so everything)." },
+  { "language": "nim", "reason": "Clearly, the syntax is cleaner than C++." }
 ]
