@@ -4,5 +4,6 @@
   { "language": "typescript", "reason": "Notice how it starts making JavaScript look more like C#?" },
   { "language": "brainfuck", "reason": "Code golf, of course." },
   { "language": "zig", "reason": "It's Rust, minus the bad stuff (so everything)." },
-  { "language": "nim", "reason": "Clearly, the syntax is cleaner than C++." }
+  { "language": "nim", "reason": "Clearly, the syntax is cleaner than C++." },
+  { "language": "suitescript", "reason": "Do you have JavaScript? do you want to hate it more? use Oracle's JavaScript." }
 ]
