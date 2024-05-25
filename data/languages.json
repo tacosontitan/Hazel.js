@@ -28,5 +28,10 @@
     "name": "nim",
     "displayName": "Nim",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg"
+  },
+  {
+    "name": "suitescript",
+    "displayName": "SuiteScript",
+    "logo": "https://cdn.worldvectorlogo.com/logos/netsuite.svg"
   }
 ]
