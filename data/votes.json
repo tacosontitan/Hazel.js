@@ -5,5 +5,6 @@
   { "language": "brainfuck", "reason": "Code golf, of course." },
   { "language": "zig", "reason": "It's Rust, minus the bad stuff (so everything)." },
   { "language": "nim", "reason": "Clearly, the syntax is cleaner than C++." },
-  { "language": "suitescript", "reason": "Do you have JavaScript? do you want to hate it more? use Oracle's JavaScript." }
+  { "language": "suitescript", "reason": "Do you have JavaScript? do you want to hate it more? use Oracle's JavaScript." },
+  { "language": "haskell", "reason": "Excuse me, do you have a moment to hear about our Lord and Savior, the Monad?" }
 ]

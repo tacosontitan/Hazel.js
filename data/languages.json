@@ -33,5 +33,10 @@
     "name": "suitescript",
     "displayName": "SuiteScript",
     "logo": "https://cdn.worldvectorlogo.com/logos/netsuite.svg"
+  },
+  {
+    "name": "haskell",
+    "displayName": "Haskell",
+    "logo": "https://en.wikipedia.org/wiki/Haskell#/media/File:Logo_of_the_Haskell_programming_language.svg"
   }
 ]
